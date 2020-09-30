@@ -4,6 +4,7 @@ collaborate in #hacktober2020
 
   [join hacktober2020](https://hacktoberfest.digitalocean.com/)
 
+
 <hr>
 
 ## Projects
@@ -14,21 +15,27 @@ collaborate in #hacktober2020
 
     > Platform for students, made by Students
     
-    <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width=20%>
+    <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width=10%>
 
-    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=15%>
+    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=7.5%>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width=10%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width=5%>
+
+<hr>
+
 
 * [EnigmaForum](https://github.com/theenigmacodex/Enigmaforum)
 
     > Enigmaforum of ACE Engineering College 
 
-    <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width=20%>
+    <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width=10%>
 
-    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=15%>
+    <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=7.5%>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width=10%>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width=5%>
+
+<hr>
+
 
 * [CodeSnippets](https://github.com/EnigmaCodex-ACE/StudentCodeSnippets)
 
@@ -38,6 +45,9 @@ collaborate in #hacktober2020
 
     <br>
     <br>
+
+<hr>
+
 
 * More to be added 
     > Or add your own repos 
